@@ -1,16 +1,10 @@
 #ifndef ACCOUNT_H
 #define ACCOUNT_H
 
-
 class Account
 {
     public:
-        Account();
-        virtual ~Account();
-
-    protected:
-
-    private:
+       void creditcounter()const;
 };
 
 #endif // ACCOUNT_H

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1541474077 source:d:\codeblock\4-14\main.cpp
+	<iostream>
+	"Account.h"
+
+1541473861 d:\codeblock\4-14\include\account.h
+
