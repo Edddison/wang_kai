@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1541470536 source:d:\codeblock\4-15\main.cpp
+	<iostream>
+	"Calculator.h"
+
+1541470522 d:\codeblock\4-15\include\calculator.h
+
+1541470709 source:d:\codeblock\4-15\src\calculator.cpp
+	<iostream>
+	"Calculator.h"
+
