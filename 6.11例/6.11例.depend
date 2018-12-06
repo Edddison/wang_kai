@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542697536 source:d:\codeblock\6.11Àý\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

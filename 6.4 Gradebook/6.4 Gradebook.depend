@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1542601864 source:d:\codeblock\6.4 gradebook\main.cpp
+	<iostream>
+	"GradeBook.h"
+
+1542601817 d:\codeblock\6.4 gradebook\include\gradebook.h
+
+1542094665 source:d:\codeblock\6.4 gradebook\src\gradebook.cpp
+	<iostream>
+	"GradeBook.h"
+
